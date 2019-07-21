@@ -28,7 +28,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="images/IMG-20170313-00160.jpg" style="width:100% margin:50%" class="circle" alt="my image">
+          <img src="images/IMG-20170313-00160.jpg" style="width:100%; margin:50%" class="circle" alt="my image">
           <div class="w3-display-bottomleft w3-container w3-text-black">
 		  <h2><b>ADEJOBI, Ezekiel Adewole</b></h2>
           </div>
